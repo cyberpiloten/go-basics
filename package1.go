@@ -1,6 +1,8 @@
 package main
 
 import "fmt"
+
 func main() {
-	fmt.Println("Go rule!")
+	var phrase string = "Go Rule!"
+	fmt.Println(phrase)
 }
